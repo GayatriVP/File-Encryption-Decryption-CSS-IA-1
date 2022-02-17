@@ -15,6 +15,7 @@
 2. PKCS1_OAEP
 3. base64
 4. SHA256
+5. cryptodomex
 
 ### In-built Libraries
 1. path
